@@ -10,7 +10,7 @@ Computer science student
 *   🧠  I'm learning how to develop with react
 *   ⚡  I am looking for an internship of 10 weeks in web development from April 2022 and an alternation of one year to validate my degree thereafter
 
-<a href="https://app.daily.dev/Larcheerbc"><img src="https://github.com/Larcherbc/Larcherbc/blob/main/devcard.svg" width="400" alt="Jules Rabec's Dev Card"/></a>
+<a href="https://app.daily.dev/Larcherbc"><img src="https://github.com/Larcherbc/Larcherbc/blob/main/devcard.svg" width="400" alt="Jules Rabec's Dev Card"/></a>
 <!---
 Larcherbc/Larcherbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
