@@ -8,7 +8,7 @@ Computer science student
 *   🖥️  Find my portfolio at [jules.rabec.eu](http://jules.rabec.eu)
 *   ✉️  You can contact me at [jules.rabec@gmail.com](mailto:jules.rabec@gmail.com)
 *   🧠  I'm learning how to develop with react
-*   ⚡  I am looking for an internship of 10 weeks in web development from April 2022 and an alternation of one year to validate my degree thereafter
+*   ⚡  I am looking for an internship of 10 weeks in web development from April 2022 and a work/study training program of one year to validate my degree thereafter
 
 <a href="https://app.daily.dev/Larcherbc"><img src="https://github.com/Larcherbc/Larcherbc/blob/main/devcard.svg" width="400" alt="Jules Rabec's Dev Card"/></a>
 <!---
