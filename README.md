@@ -9,6 +9,8 @@ Computer science student
 *   ✉️  You can contact me at [jules.rabec@gmail.com](mailto:jules.rabec@gmail.com)
 *   🧠  I'm learning how to develop with react
 *   ⚡  I am looking for an internship of 10 weeks in web development from April 2022 and an alternation of one year to validate my degree thereafter
+
+<a href="https://app.daily.dev/Larcherbc"><img src="https://api.daily.dev/devcards/baea9ec58bb74e55b4666ae0bca5f849.png?r=uwm" width="400" alt="jules's Dev Card"/></a>
 <!---
 Larcherbc/Larcherbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
